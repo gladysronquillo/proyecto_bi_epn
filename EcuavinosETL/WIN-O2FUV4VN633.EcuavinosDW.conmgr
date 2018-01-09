@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="WIN-O2FUV4VN633.EcuavinosDW"
+  DTS:DTSID="{6B1208BC-88A4-4D08-A7C0-6EC3D2367221}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WIN-O2FUV4VN633;Initial Catalog=EcuavinosDW;Integrated Security=True;Application Name=SSIS-EcuavinosETL-{6B1208BC-88A4-4D08-A7C0-6EC3D2367221}WIN-O2FUV4VN633.EcuavinosDW;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
